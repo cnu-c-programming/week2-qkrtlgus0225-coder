@@ -7,7 +7,7 @@ int main()
     printf("hex : %x\n", var1);
     printf("oct : %o\n", var1);
 
-    char var2 = 'C';
+    char var2 = 'c';
     printf("char : %c\n", var2);
 
     char* var3 = "hello world!";
