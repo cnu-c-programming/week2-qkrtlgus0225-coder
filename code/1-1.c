@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main()
-{ printf("int : %d\n", var1);
+{ int var1 = 100;
+ printf("int : %d\n", var1);
     printf("hex : %x\n", var1);
     printf("oct : %o\n", var1);
 
